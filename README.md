@@ -18,13 +18,37 @@ La seguridad cibernética es un campo en constante evolución, y la comprensión
 
 ## Preguntas Técnicas
 
-### 1. ¿Qué es Cross-Site Scripting (XSS) y cómo se puede prevenir en aplicaciones web basadas en JavaScript?
-
-### 2. Explica el concepto de "Same-Origin Policy" en el contexto de la seguridad del navegador.
-
-### 3. ¿Qué es CORS (Cross-Origin Resource Sharing) y cómo funciona en aplicaciones web?
-
-### 4. Describe cómo se puede implementar la autenticación segura en una aplicación web basada en JavaScript.
+1. ¿Qué es Cross-Site Scripting (XSS) y cómo se puede prevenir en aplicaciones web basadas en JavaScript?
+2. Explica el concepto de "Same-Origin Policy" en el contexto de la seguridad del navegador.
+3. ¿Qué es CORS (Cross-Origin Resource Sharing) y cómo funciona en aplicaciones web?
+4. Describe cómo se puede implementar la autenticación segura en una aplicación web basada en JavaScript.
+5. ¿Cuál es la diferencia entre autorización y autenticación?
+6. ¿Cuáles métodos de autenticación has manejado en desarrollo front end?
+7. ¿Cuales son los posibles estados de una Promesa?
+8. ¿Cómo funciona el SSR?
+9. ¿Con cuáles de las vulnerabilidades del OWASP TOP10 te has encontrado?
+10. ¿Cómo las has solucionado Inyección de SQL (SQL Injection)?
+11. ¿Cuáles consideras que son buenas prácticas de desarrollo seguro?
+12. ¿Qué es la ciberseguridad y por qué es importante en el desarrollo frontend?
+13. ¿Qué es CORS (Cross-Origin Resource Sharing) y cómo se utiliza para mejorar la seguridad en aplicaciones web?
+14. ¿Cuáles son algunas de las vulnerabilidades comunes en aplicaciones web frontend y cómo se pueden mitigar?
+15. ¿Cómo se pueden prevenir los ataques de Cross-Site Scripting (XSS) en una aplicación web frontend?
+16. ¿Qué es Content Security Policy (CSP) y cuál es su función en la seguridad frontend?
+17. Explica el concepto de "Same-Origin Policy" y su importancia en la seguridad del navegador.
+18. ¿Qué es HTTPS y por qué es crucial para la seguridad en el frontend?
+19. ¿Cómo se pueden proteger las sesiones de usuario en una aplicación web frontend?
+20. Describe qué es Clickjacking y cómo se puede prevenir.
+21. ¿Qué es la inyección de HTML y cómo se puede evitar en el desarrollo frontend?
+22. ¿Cómo evaluarías la seguridad de una biblioteca o framework de frontend antes de usarlo en un proyecto?
+23. ¿Qué son las prácticas de "secure coding" y cuál es su relevancia en el desarrollo frontend?
+24. ¿Qué es un escáner de seguridad y cómo puede ayudar a identificar vulnerabilidades en una aplicación web frontend?
+25. ¿Qué es la autenticación de dos factores (2FA) y cómo se puede implementar en una aplicación web frontend?
+26. ¿Cómo manejarías la gestión de claves y contraseñas en una aplicación frontend de manera segura?
+27. ¿Qué es un ataque de fuerza bruta y qué medidas se pueden tomar para prevenirlo en una aplicación web frontend?
+28. ¿Cómo se pueden implementar políticas de seguridad de contenido en una aplicación web para proteger contra ataques de contenido mixto (Mixed Content)?
+29. ¿Cuáles son las mejores prácticas para mantener y aplicar actualizaciones de seguridad en una aplicación web frontend?
+30. Describe un escenario en el que una aplicación web frontend podría ser vulnerable a un ataque de suplantación de identidad (Spoofing) y cómo se podría prevenir.
+31. ¿Qué es una auditoría de seguridad y cuál es su papel en el desarrollo frontend seguro?
 
 ## Preguntas de Escenario
 
